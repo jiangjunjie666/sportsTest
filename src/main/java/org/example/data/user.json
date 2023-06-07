@@ -1,0 +1,47 @@
+[
+  {
+    "id": "001",
+    "username": "jjj",
+    "password": "123",
+    "gender": "男",
+    "status": 1,
+    "pro1": "男子100米",
+    "pro2": "男子1000米"
+  },
+  {
+    "id": "002",
+    "username": "aaa",
+    "password": "456",
+    "gender": "女",
+    "status": 1,
+    "pro1": "女子100米",
+    "pro2": "未报名"
+  },
+  {
+    "id": "003",
+    "username": "ccc",
+    "password": "789",
+    "gender": "女",
+    "status": 1,
+    "pro1": "女子100米",
+    "pro2": "未报名"
+  },
+  {
+    "id": "004",
+    "username": "qqq",
+    "password": "111",
+    "gender": "男",
+    "status": 1,
+    "pro1": "男子500米",
+    "pro2": "男子50米接力比赛"
+  },
+  {
+    "id": "005",
+    "username": "kk",
+    "password": "123",
+    "gender": "男",
+    "status": 1,
+    "pro1": "男子100米",
+    "pro2": "男子1000米"
+  }
+]

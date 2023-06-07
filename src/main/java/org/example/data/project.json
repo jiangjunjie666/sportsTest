@@ -1,0 +1,47 @@
+[
+  {
+    "id": "g001",
+    "name": "男子100米",
+    "type": "男子",
+    "property": "个人",
+    "Number": "2",
+    "status": 1,
+    "already": "0"
+  },
+  {
+    "id": "g002",
+    "name": "女子100米",
+    "type": "女子",
+    "property": "个人",
+    "Number": "2",
+    "status": 1,
+    "already": "0"
+  },
+  {
+    "id": "g003",
+    "name": "男子1000米",
+    "type": "男子",
+    "property": "个人",
+    "Number": "2",
+    "status": 1,
+    "already": "0"
+  },
+  {
+    "id": "g004",
+    "name": "男子500米",
+    "type": "男子",
+    "property": "个人",
+    "Number": "5",
+    "status": 1,
+    "already": "4"
+  },
+  {
+    "id": "g005",
+    "name": "男子50米接力比赛",
+    "type": "男子",
+    "property": "团体",
+    "Number": "10",
+    "status": 1,
+    "already": "9"
+  }
+]
